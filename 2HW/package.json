@@ -1,0 +1,14 @@
+{
+  "name": "2hw",
+  "version": "1.0.0",
+  "main": "chat_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node chat_app.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
